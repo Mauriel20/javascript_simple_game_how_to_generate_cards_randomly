@@ -13,15 +13,6 @@
     flex-direction: column;
 }
 
-button {
-    width: 120px;
-    height: 50px;
-    background: rgb(166, 136, 247);
-    color: rgb(13, 13, 14);
-    border-radius: 18px;
-    outline: none;
-    margin: 50px;
-}
 
 #numero {
     padding: 12px;
